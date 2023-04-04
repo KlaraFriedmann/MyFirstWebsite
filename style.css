@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans&family=PT+Sans&display=swap');
+
+nav {
+    background-color: #333333;
+    height: 42px;
+}
+
+nav ul {
+    display: inline-block;
+    list-style-type: none;
+    text-align: right;
+}
+
+
+
+#mainLogo {
+    display: inline-block;
+    vertical-align: middle;
+    padding-left: 10%;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-left: 15px;
+    
+}
+
+nav ul li a {
+    color: #ff0099
+}
+
+html body {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: small;
+    margin: 0;
+    padding: 0;
+}
+
+.title {
+    font-family: 'PT Sans', sans-serif;
+    margin-top: 50px;
+}
+
+.sub-title {
+    font-family: 'PT Sans', sans-serif;
+}
+
+.wiki h2 {
+    font-family: 'PT Sans', sans-serif;
+}
+
+.wiki h3 {
+    font-family: 'PT Sans', sans-serif;
+}
+
+.wrapper {
+    align-items: center;
+    width: 100%;
+    margin: 0;
+    overflow: hidden;
+    background-image: url("./topography.png")
+}
+
+.separator {
+    text-align: center;
+    margin: 50px 0px 40px;
+}
+.wiki h2 {
+    text-align: center;
+}
+
+.wiki p {
+    font-size: smaller;
+}
+.sub-title {
+    color: #ff0099;
+}
+
+#content {
+    padding: 0px 10%;
+}
+
